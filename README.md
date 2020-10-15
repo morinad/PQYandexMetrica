@@ -13,7 +13,7 @@
 
 Закрыть доступы к Яндекс Метрике: https://passport.yandex.ru/profile/access
 
-Параметры и показатели для Яндекс Метрики: 
-https://tech.yandex.ru/metrika/doc/api2/api_v1/attrandmetr/dim_all-docpage/ 
-https://docs.google.com/spreadsheets/d/1zWAq_wYQymYcJvKV-XcodNVTYu5ZiZJ2YqKWhscPf0Y/edit#gid=629438640
+Параметры и показатели для Яндекс Метрики: https://tech.yandex.ru/metrika/doc/api2/api_v1/attrandmetr/dim_all-docpage/ 
+
+Полный список параметров и показателей API Яндекс.Метрики: https://docs.google.com/spreadsheets/d/1zWAq_wYQymYcJvKV-XcodNVTYu5ZiZJ2YqKWhscPf0Y/edit#gid=629438640
 
