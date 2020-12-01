@@ -22,3 +22,5 @@
 Полный список параметров и показателей API Яндекс.Метрики: https://docs.google.com/spreadsheets/d/1zWAq_wYQymYcJvKV-XcodNVTYu5ZiZJ2YqKWhscPf0Y/edit#gid=629438640
 
 Справка API: https://yandex.ru/dev/metrika/doc/api2/api_v1/intro.html/
+
+Получить токен: https://oauth.yandex.ru/authorize?response_type=token&client_id=f8bd88fd26064cfa8042faf436795a7a
